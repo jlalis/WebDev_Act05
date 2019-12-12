@@ -1,2 +1,2 @@
-# jlalis.github.io
+# WebDev_Act05
 School Alumni Networking Website
